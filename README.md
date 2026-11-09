@@ -19,10 +19,10 @@
 
 I'm an **Electrical & Computer Engineering graduate from the University of Patras**, focused on **machine learning, deep learning, and computer vision**. I enjoy working across the full experimental workflow: understanding a problem, implementing models, analyzing results, and communicating findings clearly.
 
-My academic work includes **skeleton-based sign language recognition**, **generative modeling for medical imaging**, **neural network classification**, **stochastic control**, and **cybersecurity data mining**.
+My academic work includes **skeleton-based sign language recognition**, **generative modeling for medical imaging**, **neural network classification**, **stochastic control**, **cybersecurity data mining**, and a **Python/Qt art gallery management application** with SQLite and optional AI-assisted exhibition planning.
 
 - 🔬 **Research interests:** representation learning, geometric deep learning, time-series analysis, generative models, and multimodal AI
-- 🧠 **Current focus:** strengthening practical ML engineering, from clean Python code to reproducible training and evaluation
+- 🧠 **Current focus:** strengthening practical ML engineering and software development, from clean Python code to reproducible training, evaluation, and complete applications
 - 🤝 **Interested in:** ML Engineer / AI Engineer roles, research collaborations, and meaningful applied AI projects
 
 ## Featured projects
@@ -30,6 +30,7 @@ My academic work includes **skeleton-based sign language recognition**, **genera
 | Project | Description | Technologies |
 |:--|:--|:--|
 | **[Sign Language Recognition — Diploma Thesis](https://github.com/spirosmpt/Sign-Language-Time-Series-Analysis-Using-Machine-Learning-Methods)** | Geometry-aware representation learning for isolated sign language recognition. Investigates **Proxy Anchor Loss**, hand-skeleton embeddings, and Transformer-based classification on **WLASL-100/300/2000**. | Python · PyTorch · Transformers · MediaPipe |
+| **[ArtFlow — Art Gallery Management System](https://github.com/spirosmpt/---ArtFlow)** | Desktop gallery administration with exhibitions, artwork cataloging, ticketing, calendar and analytics, museum-data importing, and optional AI-assisted exhibition proposals. | Python · PySide6/Qt · SQLite · OpenAI API |
 | **[Bayesian Classification & Neural Networks](https://github.com/spirosmpt/Bayesian-Classification)** | Bayesian decision theory, feed-forward neural networks, loss-function comparisons, and binary MNIST classification. | MATLAB · ML · Classification |
 | **[Generative Image Reconstruction](https://github.com/spirosmpt/Generative-Image-Reconstruction)** | Handwritten-digit generation and reconstruction from noisy or low-resolution measurements using a neural generative model and latent optimization. | MATLAB · Generative Models · Optimization |
 | **[Data-Driven Stochastic Control](https://github.com/spirosmpt/Data-Driven-Stochastic-Control---Reinforcement-Learning)** | Numerical and learning-based conditional expectation estimation, value-function approximation, and stochastic control experiments. | MATLAB · Neural Networks · Numerical Methods |
@@ -45,12 +46,14 @@ My academic work includes **skeleton-based sign language recognition**, **genera
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Qt](https://img.shields.io/badge/Qt%20%2F%20PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-**Core areas:** Deep Learning · Computer Vision · Classification · Representation Learning · Time-Series Modeling · Data Analysis · Model Evaluation
+**Core areas:** Deep Learning · Computer Vision · Representation Learning · Time-Series Modeling · Data Analysis · Desktop Application Development · SQL Databases · API Integration
 
 ## Research highlight
 
